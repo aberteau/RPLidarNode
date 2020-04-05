@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server.ConsoleApp", "Server.ConsoleApp\Server.ConsoleApp.csproj", "{44F49312-E0B6-4C05-A8F3-2D06EA2ECFE2}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client.ConsoleApp", "Client.ConsoleApp\Client.ConsoleApp.csproj", "{2D995319-CD29-4CA9-BEA3-EAE5E057A676}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{44F49312-E0B6-4C05-A8F3-2D06EA2ECFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44F49312-E0B6-4C05-A8F3-2D06EA2ECFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44F49312-E0B6-4C05-A8F3-2D06EA2ECFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D995319-CD29-4CA9-BEA3-EAE5E057A676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D995319-CD29-4CA9-BEA3-EAE5E057A676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D995319-CD29-4CA9-BEA3-EAE5E057A676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D995319-CD29-4CA9-BEA3-EAE5E057A676}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
